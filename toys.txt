@@ -1,0 +1,14 @@
+1--Display CustName and total transaction cost as TotalPurchase for those customers
+whose total transaction cost is greater than 1000.
+
+2--For each customer display transactionid, customerid and cost of the transaction that
+has the maximum cost among all transactions made by that customer.
+
+
+3--List all the toyid, total quantity purchased as 'total quantity' irrespective of the customer. Toys that have not been sold  should also appear in the result with total units as 0.
+
+4--List all the ToyId, ToyName, Price of those toys which have the same price
+
+
+5--The CEO of Toys corner wants to know which toy has the highest total Quantity sold.
+ Display CName, ToyName, total Quantity sold of this toy.
